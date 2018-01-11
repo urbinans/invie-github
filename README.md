@@ -7,3 +7,7 @@ http://github.com - automatic!
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
+
+    Function()
+
+```Function()```
